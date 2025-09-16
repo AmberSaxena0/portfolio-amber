@@ -1,7 +1,5 @@
 import {
   mobile,
-  backend,
-  creator,
   web,
   javascript,
   typescript,
@@ -9,20 +7,8 @@ import {
   css,
   reactjs,
   redux,
-  tailwind,
-  nodejs,
-  mongodb,
   git,
   figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
   android,
   apple,
   vscode,
@@ -31,6 +17,7 @@ import {
   unhu,
   HobbyTwin,
   Crypt,
+  dotsquares,
   _apple,
 } from "../assets";
 
@@ -121,11 +108,24 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Programmer",
+    company_name: "Dotsquare Technologies",
+    icon: dotsquares,
+    iconBg: "#E6DEDD",
+    date: "June 2025 - Present",
+    points: [
+      "Worked on code migration and version upgrades in React Native projects to enhance stability and support new features.",
+      "Collaborated with clients to gather feedback and implemented fixes to improve react native application.",
+      "Collaborated with cross-functional teams through Scrum calls, ensuring timely updates and project alignment.",
+      "Implemented EAS build and OTA update workflows in Expo to streamline app deployment and delivery.",
+    ],
+  },
+  {
     title: "Associate Software Developer",
     company_name: "Etelligens Technologies",
     icon: etelligens,
     iconBg: "#383E56",
-    date: "February 2023 - Present",
+    date: "February 2023 - May 2025",
     points: [
       "Created and maintained mobile applications using React Native, improving application performance by 20% through code optimisation.",
       "Worked in an Agile team environment, participating in daily stand-ups, sprint planning, and retrospectives to enhance team productivity and project outcomes.",

@@ -38,12 +38,14 @@ import etelligens from "./company/Etelligens.jpeg";
 import unhu from "./company/unhu.jpeg";
 import HobbyTwin from "./HobbyTwin.png";
 import Crypt from "./Crypt.png";
+import dotsquares from "./dotsquares.jpg";
 
 export {
   vscode,
   _apple,
   Crypt,
   HobbyTwin,
+  dotsquares,
   unhu,
   etelligens,
   slack,
